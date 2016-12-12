@@ -1,0 +1,20 @@
+{
+  "name": "angular-webstorage-light",
+  "version": "0.1.0",
+  "description": "A simple web storage (session/local/memory) module for angular apps.",
+  "main": [
+    "dist/webstorage.light.js"
+  ],
+  "ignore": [
+    "src",
+    "test",
+    "**/.*"
+  ],
+  "dependencies": {
+    "angular": "*"
+  },
+  "devDependencies": {
+  },
+  "resolutions": {
+  }
+}
